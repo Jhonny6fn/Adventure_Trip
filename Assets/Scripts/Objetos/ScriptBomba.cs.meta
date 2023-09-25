@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 425617fea0f946f4d8cb09f25ff81484
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FXbomba: {fileID: 8300000, guid: 4bb01987d3dc5844ebdb37a6b747aa52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
